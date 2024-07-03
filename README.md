@@ -28,11 +28,11 @@ pip install pandas
 Clone the repository to your local machine:
 
 ```
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/luuthuan/Pandas-basic.git
 ```
 Navigate to the project directory:
 ```
-cd your-repo-name
+cd Pandas-basic
 ```
 
 ## Usage
